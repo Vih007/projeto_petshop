@@ -1,0 +1,8 @@
+Fatura de Compra
+Data: 13/02/2025 00:53:11
+====================================
+Caixa de areiz - Quantidade: 2 - Subtotal: R$100.0
+====================================
+Total da Compra: R$100.0
+====================================
+Obrigado pela sua compra!

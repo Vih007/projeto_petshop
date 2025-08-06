@@ -1,0 +1,10 @@
+Fatura de Compra
+Data: 06/08/2025 13:42:22
+====================================
+Caixa de areia - Quantidade: 2 - Subtotal: R$100.0
+Coleira - Quantidade: 1 - Subtotal: R$30.0
+Coleira - Quantidade: 2 - Subtotal: R$60.0
+====================================
+Total da Compra: R$190.0
+====================================
+Obrigado pela sua compra!

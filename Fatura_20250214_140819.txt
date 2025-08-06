@@ -1,0 +1,8 @@
+Fatura de Compra
+Data: 14/02/2025 14:08:19
+====================================
+Ração - Quantidade: 10 - Subtotal: R$230.0
+====================================
+Total da Compra: R$230.0
+====================================
+Obrigado pela sua compra!
