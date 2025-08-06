@@ -1,0 +1,4 @@
+*.java linguist-detectable=true
+*.class linguist-generated
+*.jar linguist-generated
+*.db linguist-generated
