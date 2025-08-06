@@ -26,7 +26,7 @@ Este projeto foi criado como parte de um exercício acadêmico para consolidar c
 
 ---
 
-💡 Observações
+💡 Observações:
 O projeto é focado em fins educacionais.
 Melhorias como tratamento de exceções, autenticação segura e responsividade ainda estão em desenvolvimento.
 
